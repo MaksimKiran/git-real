@@ -1,0 +1,6 @@
+This file was created in Maksim's local repository, of the same name: git 
+real. The goal is to write something locally, terminal only, and have it 
+show up on my GitHub account. Reading this file on GitHub confirms the successful
+transfer (push) of a commit from a local repositorium to my remote repositorium.
+
+This line was not present in the original version of this file.
